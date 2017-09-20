@@ -41,7 +41,7 @@ To be completed......
 Teacher of English for Academic Purposes 
 - Prepared and delivered classes to students ranging from A1 - C2 CEFR
 - Designed courses in reading, writing, listening, speaking and research skills
-- Centre E-Champion: designated member of staff responsible for training teachers in new EdTech and developmeing the EAP blended learning plan 
+- Centre E-Champion: designated member of staff responsible for training teachers in new EdTech and developing the EAP blended learning plan 
 - An elected member of the Staff Forum for 3 years
 - Part of the team for organising staff development days
 - Deliverd staff training on Dyslexia and Specific Learning Difficulties
@@ -83,7 +83,7 @@ An 8 week introduction course to web development, aimed at encouraging women to 
 
 MA in Applied Lingistics and English Language Teaching
 - Distinction 
-- Modules included: Socio and psycho - lingistics, language acquisition, grammar, pronunciation, and research method. 
+- Modules included: Socio and psycho - lingistics, language acquisition, grammar, pronunciation, and research methods. 
 - Final dissertation focused on the identification, diagnosis and support of dyslexic international students in UK universities for who English is a second language. 
 
 
