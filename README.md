@@ -5,7 +5,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)|
 
-I am a former English language teacher who has chosen to leave a life in academia for a new and exciting career as a Junior Developer. I was enticed into the world of tech in my previous job through my role as a teaching "E-Champion", were I worked to research and create our centre's blended learning and Ed-Tech development plan. Since then, I have become fascinated by the creation of e-learning materials and the development of more effective methods of online education. I aim to combine my two areas of expertise, coding and teaching, to forge a new career in this area. 
+I am a former English language teacher who has chosen to leave a life in academia for a new and exciting career as a Junior Developer. I first became interested in software development in my previous job through my role as a teaching "E-Champion", were I was tasked with researching and creating our centre's blended learning and Ed-Tech development plan. Though my initial interest was sparked by looking into the creation of e-learning materials and the development of more effective methods of online education, studying at Maker's Academy has given me the opportunity to see that the skills needed to develop successful e-learning products can be used to develop a wide array of products or projects. It is this area of using code to create viable and useful solutions for customers which I am particularly interested in exploring.
 
 
 
@@ -18,20 +18,18 @@ Having studied in France, worked in Spain and spent the last 10 years working wi
 
 #### Delivery
 
-I am used to working to both long-term and short-term deadlines. I am skilled in time management and prioritising key tasks. Having led the development of new syllabi, the marking of exams and the creation of a blended learning and Ed-Tech development plan, I understand the importance of delivering quality work to an inflexible deadline.
+I am used to working to both long-term and short-term deadlines. I am skilled in time management and prioritising key tasks. Having previously led the development of new syllabi, the marking of exams and the creation of a blended learning and Ed-Tech development plan, I understand the importance of delivering quality work to an inflexible deadline.
 
 
 #### Fast Learner
 
-Despite having limited coding experiance, I was able to gain a place at the highly competative Makers Academy Bootcamp. My progression through the course and my successful graduation indicate that I am quick to pick up new concepts and skills. My final project especially demonstrates the complex code that I am able to use after only four months of intensive coding experiance. 
-
-
+Despite having limited coding experience, I was able to gain a place at the highly competitive Makers Academy Bootcamp. My progression through the course and my successful graduation indicate that I am quick to pick up new concepts and skills. The projects which I developed through out the course show how quickly I was able to pick up languages, including: Ruby, Javascript and Swift. They also demonstrate my abilities to plan, organise and create a full stack program after only four months of intensive coding experience.
 
 
 
 ## Projects
 
-To be completed......
+During my time learning to code I have developed projects both individually and as part of a team. My individual projects include tasks such as replicating an oyster card system in Ruby and creating a single page web app thermostat in JavaScript. My group projects include creating a full stack Air B n B replica in Javascript and a Git helper tool based on the command line. One of the projects which I am most proud of being a part of was the creation of a notes app which is designed to help students review and revise their notes through the use of multiple reminders. 
 
 
 ## Experience
@@ -65,7 +63,10 @@ Business English Teacher
 A 16 week intensive development bootcamp, focusing on:
 
 - Ruby
+- JavaScript
+- Swift
 - Test Driven Development
+- Agile Development
 - Pair Programming
 
 
@@ -84,7 +85,7 @@ An 8 week introduction course to web development, aimed at encouraging women to 
 MA in Applied Lingistics and English Language Teaching
 - Distinction 
 - Modules included: Socio and psycho - lingistics, language acquisition, grammar, pronunciation, and research methods. 
-- Final dissertation focused on the identification, diagnosis and support of dyslexic international students in UK universities for who English is a second language. 
+- Final dissertation focused on the identification, diagnosis and support of dyslexic international students in UK universities for whom English is a second language. 
 
 
 #### Norwich Institue for Language Education (Sept '10 - Dec '11)  
