@@ -1,4 +1,3 @@
-
 # Christine Horrocks 
 ## CV
 
@@ -42,7 +41,7 @@ Teacher of English for Academic Purposes
 - Centre E-Champion: designated member of staff responsible for training teachers in new EdTech and developing the EAP blended learning plan 
 - An elected member of the Staff Forum for 3 years
 - Part of the team for organising staff development days
-- Deliverd staff training on Dyslexia and Specific Learning Difficulties
+- Delivered staff training on Dyslexia and Specific Learning Difficulties
 
 
 #### ELAC Summer Schools (July '09 - Aug '09)
@@ -82,20 +81,20 @@ An 8 week introduction course to web development, aimed at encouraging women to 
 
 #### King's College London (Sept '13 - Sep '15)
 
-MA in Applied Lingistics and English Language Teaching
+MA in Applied Linguistics and English Language Teaching
 - Distinction 
-- Modules included: Socio and psycho - lingistics, language acquisition, grammar, pronunciation, and research methods. 
+- Modules included: Socio and psycho - linguistics, language acquisition, grammar, pronunciation, and research methods. 
 - Final dissertation focused on the identification, diagnosis and support of dyslexic international students in UK universities for whom English is a second language. 
 
 
-#### Norwich Institue for Language Education (Sept '10 - Dec '11)  
+#### Norwich Institute for Language Education (Sept '10 - Dec '11)  
 
-DELTA Qualification in English Langauge Teaching
+DELTA Qualification in English Language Teaching
 
 
 #### University of Kent (Sept '04 - June '08)
 
-BA (Hons) European History with a Year Aborad 
+BA (Hons) European History with a Year Abroad 
 - 2:1
 - Year abroad spent studying at University d'Avigion et des Pays de Vaucluse
 
@@ -109,4 +108,4 @@ I am an enthusiastic indoor and outdoor climber. I find it is also a wonderful e
 I commute by bike every day (weather permitting) and enjoy cycling around the city. 
 
 #### Baking
-I am currently working on perfecting the best-ever browine recipe. 
+I am currently working on perfecting the best-ever brownie recipe.
