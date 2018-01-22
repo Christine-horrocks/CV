@@ -28,7 +28,14 @@ Despite having limited coding experience, I was able to gain a place at the high
 
 ## Projects
 
-During my time learning to code I have developed projects both individually and as part of a team. My individual projects include tasks such as replicating an oyster card system in Ruby and creating a single page web app thermostat in JavaScript. My group projects include creating a full stack Air B n B replica in Javascript and a Git helper tool based on the command line. One of the projects which I am most proud of being a part of was the creation of a notes app which is designed to help students review and revise their notes through the use of multiple reminders. 
+During my time learning to code I have developed projects both individually and as part of a team. My individual projects include tasks such as replicating an oyster card system in Ruby and creating a single page web app thermostat in JavaScript. My group projects include creating a full stack Air B n B replica in Javascript and a Git helper tool based on the command line. One of the projects which I am most proud of being a part of was the creation of a notes app which is designed to help students review and revise their notes through the use of multiple reminders. For links please see below: 
+
+
+| Project | Description | Technologies used |
+|---------| ------------| ------------------|
+| [Nota Bene](https://github.com/Christine-horrocks/NotaBene) | My final project at Makers Academy. Our group created a iOS note taking app, which allows the user to save notes and photo images, then to set up to two reminders to review the note. | Swift, XCTest, Firebase | 
+| [Makers B n B](https://github.com/Christine-horrocks/Makers-B-n-B) | Our team created a Air B n B clone using the MEAN stack | JavaScript, JQUery, CSS, HTML, Bootstrap, Node.js, Express.js, mongoDB / mongoose, Handlebars, Bootstrap, Mocha / Chai / Sinon, Zombie.js, Travis CI, Istanbul & Coveralls|
+| [Gilded Rose Tech Test](https://github.com/Christine-horrocks/Gilded_Rose_ruby) | My first experience of doing a tech test based on the refactoring kata developed by Terry Hughes | Ruby, Rspec |
 
 
 ## Experience
@@ -65,6 +72,7 @@ A 16 week intensive development bootcamp, focusing on:
 - JavaScript
 - Swift
 - Test Driven Development
+- Object Oriented Programming 
 - Agile Development
 - Pair Programming
 
