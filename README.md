@@ -33,7 +33,7 @@ During my time learning to code I have developed projects both individually and 
 
 | Project | Description | Technologies used |
 |---------| ------------| ------------------|
-| [Nota Bene](https://github.com/Christine-horrocks/NotaBene) | My final project at Makers Academy. Our group created a iOS note taking app, which allows the user to save notes and photo images, then to set up to two reminders to review the note. | Swift, XCTest, Firebase | 
+| [Nota Bene](https://github.com/Christine-horrocks/NotaBene) | My final project at Makers Academy. Our group created an iOS note taking app, which allows the user to save notes and photo, as well as setting up to two reminders to review the note. | Swift, XCTest, Firebase | 
 | [Makers B n B](https://github.com/Christine-horrocks/Makers-B-n-B) | Our team created a Air B n B clone using the MEAN stack | JavaScript, JQUery, CSS, HTML, Bootstrap, Node.js, Express.js, mongoDB / mongoose, Handlebars, Bootstrap, Mocha / Chai / Sinon, Zombie.js, Travis CI, Istanbul & Coveralls|
 | [Gilded Rose Tech Test](https://github.com/Christine-horrocks/Gilded_Rose_ruby) | My first experience of doing a tech test based on the refactoring kata developed by Terry Hughes | Ruby, Rspec |
 
